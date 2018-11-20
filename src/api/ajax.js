@@ -36,6 +36,7 @@ export default function ajax(url, data={}, method='GET') {
         reject(error)
       })
   })
+
 }
 
 /*async function test() {
