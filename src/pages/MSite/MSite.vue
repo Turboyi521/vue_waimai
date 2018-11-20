@@ -64,7 +64,7 @@
         })
       }, 1000)*/
     },
-    computed:   {
+    computed: {
       ...mapState(['address', 'categorys']),
 
       categorysArr () {
